@@ -4,7 +4,7 @@ Este projeto apresenta a **modelagem UML** do componente **iPhone**, inspirado n
 um reprodutor musical, um telefone e um navegador de Internet.  
 Aqui, ampliamos o modelo para incluir também uma **lista de contatos**.
 
-![iphone]()
+![iphone](UML-iPhone.png)
 
 ---
 
